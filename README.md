@@ -1,4 +1,4 @@
-# CSC3206-Artificial-Intelligence-Group-Assignment
+# CSC3206 Assignment
 
 Created using python for a final group project.
 
